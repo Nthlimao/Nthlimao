@@ -18,8 +18,12 @@ I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently li
 [![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=e10098)](https://graphql.org/)
 [![Node.JS](https://img.shields.io/badge/Node.JS-0d1117?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
 [![Next.JS](https://img.shields.io/badge/Next.JS-0d1117?style=for-the-badge&logo=nextdotjs)](https://nextjs.org)
-[![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express)](https://reactnative.dev/)
-[![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)](https://reactnative.dev/)
+[![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express)](https://expressjs.com)
+[![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel)](https://laravel.com)
+[![NativeScript](https://img.shields.io/badge/NativeScript-0d1117?style=for-the-badge&logo=nativescript&logoColor=3c5afd)](https://nativescript.org/)
+[![Jest](https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&logo=jest&logoColor=99424f)](https://jestjs.io/)
+[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)](https://git-scm.com/)
 
 <!-- 📨 Contact -->
 
