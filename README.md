@@ -14,6 +14,7 @@ I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently li
 [![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)](https://www.w3schools.com/css/)
 [![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)](https://reactjs.org)
+[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![ReactNative](https://img.shields.io/badge/React%20Native-0d1117?style=for-the-badge&logo=react)](https://reactnative.dev/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=e10098)](https://graphql.org/)
 [![Node.JS](https://img.shields.io/badge/Node.JS-0d1117?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
@@ -23,7 +24,12 @@ I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently li
 [![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel)](https://laravel.com)
 [![NativeScript](https://img.shields.io/badge/NativeScript-0d1117?style=for-the-badge&logo=nativescript&logoColor=3c5afd)](https://nativescript.org/)
 [![Jest](https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&logo=jest&logoColor=99424f)](https://jestjs.io/)
-[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![Mongodb](https://img.shields.io/badge/Mongodb-0d1117?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=934b8f)](https://www.w3schools.com/cs/)
+[![JIRA](https://img.shields.io/badge/JIRA-0d1117?style=for-the-badge&logo=jira&logoColor=0052cc)](https://www.atlassian.com/software/jira)
+[![styled-components](https://img.shields.io/badge/styled%20components-0d1117?style=for-the-badge&logo=styledcomponents)](https://styled-components.com)
+[![Storybook](https://img.shields.io/badge/Storybook-0d1117?style=for-the-badge&logo=storybook)](https://storybook.js.org)
 
 <!-- 📨 Contact -->
 
