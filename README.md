@@ -34,13 +34,13 @@ I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently li
 <!-- 📨 Contact -->
 
 #### 🔭 Contact me 
-[![gmail](https://img.shields.io/badge/gmail-24BADC?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:nthlimao.contato@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![gmail](https://img.shields.io/badge/gmail-ad1f1c?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:nthlimao.contato@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nthlimao/)
 
 <!-- 💻 Status -->
 
 #### 📊 Github Status 
 <p>
-  <img min-width="400px" max-width="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=nthlimao&show_icons=true&icon_color=29CBD8&title_color=29CBD8&bg_color=0d1117&text_color=FFFFFF&hide_border=true&locale=en" alt="nthlimao" />
-  <img min-width="320px" max-width="320px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthlimao&layout=compact&icon_color=29CBD8&title_color=29CBD8&bg_color=0d1117&text_color=FFFFFF&hide_border=true&locale=en" alt="nthlimao" />
+  <img min-width="420px" max-width="420px" width="420px" src="https://github-readme-stats.vercel.app/api?username=nthlimao&show_icons=true&icon_color=29CBD8&title_color=29CBD8&bg_color=0d1117&text_color=FFFFFF&hide_border=true&locale=en" alt="nthlimao" />
+  <img min-width="330px" max-width="330px" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthlimao&layout=compact&icon_color=29CBD8&title_color=29CBD8&bg_color=0d1117&text_color=FFFFFF&hide_border=true&locale=en" alt="nthlimao" />
  </p>
