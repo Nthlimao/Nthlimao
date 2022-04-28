@@ -40,5 +40,7 @@ I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently li
 <!-- 💻 Status -->
 
 #### 📊 Github Status 
-![nthlimao](https://github-readme-stats.vercel.app/api?username=nthlimao&show_icons=true&icon_color=29CBD8&title_color=29CBD8&bg_color=0d1117&text_color=FFFFFF&hide_border=true&locale=en)
-![nthlimao](https://github-readme-stats.vercel.app/api/top-langs?username=nthlimao&layout=compact&icon_color=29CBD8&title_color=29CBD8&bg_color=0d1117&text_color=FFFFFF&hide_border=true&locale=en)
+<p>
+  <img min-width="400px" max-width="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=nthlimao&show_icons=true&icon_color=29CBD8&title_color=29CBD8&bg_color=0d1117&text_color=FFFFFF&hide_border=true&locale=en" alt="nthlimao" />
+  <img min-width="320px" max-width="320px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthlimao&layout=compact&icon_color=29CBD8&title_color=29CBD8&bg_color=0d1117&text_color=FFFFFF&hide_border=true&locale=en" alt="nthlimao" />
+ </p>
