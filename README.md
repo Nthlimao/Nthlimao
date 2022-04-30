@@ -36,6 +36,7 @@ I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently li
 #### 🔭 Contact me 
 [![gmail](https://img.shields.io/badge/gmail-ad1f1c?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:nthlimao.contato@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nthlimao/)
+[![medium](https://img.shields.io/badge/medium-191919?style=for-the-badge&logo=medium&logoColor=white)](https://nthlimao.medium.com)
 
 <!-- 💻 Status -->
 
