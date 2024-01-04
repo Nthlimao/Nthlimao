@@ -1,9 +1,12 @@
 <!-- 👓 Intro -->
 
 ### 👋 Olá! Hello! こんにちは! 여보세요!
-I'm **Nathalia Lima** and I'm a **Software Engineer**, a Full Stack Web Developer, but I prefer work with Front-end and I'm also a UI/UX enthusiast. ✨🦄
 
-I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently living in **Porto, Portugal**. I have a degree in **Computer Science** from the Catholic University of Pernambuco and I'm working as a Software Engineer Consultant Senior in **Capgemini Engineer Portugal** for the **Farfetch**. 🌈💻
+I'm **Nathalia Lima** and I'm a **Software Engineer**, a Front-end Developer and I'm also a UI/UX enthusiast. ✨🦄
+
+I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently living in **Porto, Portugal**. I have a degree in Computer Science from the Catholic University of Pernambuco and I'm working as a **Software Engineer Consultant Senior** in **Capgemini Engineer Portugal** for the **Vodafone UK**. 🌈💻
+
+With almost 7 years' experience, my journey into programming began around 13 years ago. When I was a teenager, I maintained a blog and my curiosity led me to realize that I could customize it, which was the beginning of my first contact with HTML, CSS and Javascript. That initial experience sparked my passion for programming, and since then I've continued to improve my skills and explore the world of technology. 🌟
 
 <!-- 🎈 Tech -->
 
@@ -14,20 +17,12 @@ I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently li
 [![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)](https://www.w3schools.com/css/)
 [![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)](https://reactjs.org)
-[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![ReactNative](https://img.shields.io/badge/React%20Native-0d1117?style=for-the-badge&logo=react)](https://reactnative.dev/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=e10098)](https://graphql.org/)
 [![Node.JS](https://img.shields.io/badge/Node.JS-0d1117?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
 [![Next.JS](https://img.shields.io/badge/Next.JS-0d1117?style=for-the-badge&logo=nextdotjs)](https://nextjs.org)
-[![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express)](https://expressjs.com)
-[![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel)](https://laravel.com)
 [![NativeScript](https://img.shields.io/badge/NativeScript-0d1117?style=for-the-badge&logo=nativescript&logoColor=3c5afd)](https://nativescript.org/)
 [![Jest](https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&logo=jest&logoColor=99424f)](https://jestjs.io/)
-[![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-[![Mongodb](https://img.shields.io/badge/Mongodb-0d1117?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=934b8f)](https://www.w3schools.com/cs/)
-[![JIRA](https://img.shields.io/badge/JIRA-0d1117?style=for-the-badge&logo=jira&logoColor=0052cc)](https://www.atlassian.com/software/jira)
 [![styled-components](https://img.shields.io/badge/styled%20components-0d1117?style=for-the-badge&logo=styledcomponents)](https://styled-components.com)
 [![Storybook](https://img.shields.io/badge/Storybook-0d1117?style=for-the-badge&logo=storybook)](https://storybook.js.org)
 
