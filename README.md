@@ -4,7 +4,7 @@
 
 I'm **Nathalia Lima** and I'm a **Software Engineer**, a Front-end Developer and I'm also a UI/UX enthusiast. ✨🦄
 
-I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently living in **Porto, Portugal**. I have a degree in Computer Science from the Catholic University of Pernambuco and I'm working as a **Software Engineer Consultant Senior** in **Capgemini Engineer Portugal** for the **Vodafone UK**. 🌈💻
+I'm from Brazil, born and raised in **Recife, Pernambuco**, but I'm currently living in **Porto, Portugal**. I have a degree in Computer Science from the Catholic University of Pernambuco and I'm working as a **Full-Stack Software Developer** in **Visma Tech Portugal** for the **E-conomic**. 🌈💻
 
 With almost 7 years' experience, my journey into programming began around 13 years ago. When I was a teenager, I maintained a blog and my curiosity led me to realize that I could customize it, which was the beginning of my first contact with HTML, CSS and Javascript. That initial experience sparked my passion for programming, and since then I've continued to improve my skills and explore the world of technology. 🌟
 
